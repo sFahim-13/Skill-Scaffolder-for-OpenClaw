@@ -57,7 +57,7 @@ The **Skill Scaffolder** is a skill that builds other skills. You describe what 
 
 ### Recommended LLMs
 
-This skill asks your AI to hold a conversation, write structured files, run checks, and fix its own mistakes. That requires a capable model.
+This skill asks your AI to hold a conversation, write structured files, run checks, and fix its own mistakes. That requires a minimum capable model.
 
 | LLM | Works? | Notes |
 |-----|--------|-------|
@@ -98,7 +98,7 @@ You should see "Skill Scaffolder" appear in your skills list. ✅
 2. Go to **Settings** → **Skills** → **"Install from GitHub"**
 3. Paste this URL:
    ```
-   https://github.com/YOUR_USERNAME/skill-scaffolder
+   https://github.com/sFahim-13/Skill-Scaffolder-for-OpenClaw
    ```
 4. Click **Install**
 
